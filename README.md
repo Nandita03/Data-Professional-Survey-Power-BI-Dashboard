@@ -4,7 +4,7 @@
 
 This project targets to visualize professional survey data using Power BI and identfies various trends in terms favourite programming languages, average salary by job title etc. The raw data can be downloaded from [here](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx).
 
-##Analysis
+## Analysis
 
 A poll of data professionals with 630 respondents for this study. The study asked questions regarding work-life balance, preferred programming languages, industry, salary, and other relevant subjects. Power Query was used to accomplish data cleansing and transformation, and visualisations were produced to analyse and display the results.
 
